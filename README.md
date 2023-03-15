@@ -6,8 +6,9 @@ Projeto de API RESTful para possibilitar a leitura da lista de indicados e vence
 
 ## Funcionalidades
 
-- Ler arquivo CSV de filmes e inserir eles em H2 ao iniciar a aplicação;
-- API Lista os produtores com maior intervalo entre dois prêmios consecutivos e os que obtiveram dois prêmios mais rápido;
+- Ler arquivo CSV de filmes e inserir eles em H2 ao iniciar a aplicação
+  - O arquivo CSV deverá ser colocado na pasta `src/main/resources/static/` e deverá estar organizado na forma de `year;title;studios;producers;winner`
+- API Lista os produtores com maior intervalo entre dois prêmios consecutivos e os que obtiveram dois prêmios mais rápido
 
 
 ## Instalação
